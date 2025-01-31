@@ -7,9 +7,8 @@
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luai0yk)
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/luai0yk)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/luai0yk)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luai0yk@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/luai0yk)[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white
+)](luai0yk@gmail.com)
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
