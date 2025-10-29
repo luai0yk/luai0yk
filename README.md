@@ -1,5 +1,5 @@
 # 💫 Hi there 👋, I'm Lu'ai:
-🔭 I’m currently working on Flutter & learning JS<br>👯 I’m looking to collaborate on Mobile open-source apps<br>🤝 I’m looking for help with Mobile Developemnt<br>🌱 I’m currently learning some advaned programming principles<br>💬 Ask me about anything related to Flutter
+🔭 I’m currently working on Flutter & learning JavaScript<br>👯 I’m looking to collaborate on Mobile open-source apps<br>🤝 I’m looking for help with Mobile Developemnt<br>🌱 I’m currently learning some advaned programming principles<br>💬 Ask me about anything related to Flutter
 
 
 ## 🌐 Socials:
