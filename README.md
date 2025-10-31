@@ -2,7 +2,7 @@
 🔭 I’m currently working with Flutter<br>
 👯 I’m looking to collaborate on Mobile open-source apps<br>
 🤝 I’m looking to help with Mobile Developemnt<br>
-🌱 I’m learning JS<br>
+🌱 I’m currently JS<br>
 💬 Ask me about anything related to Flutter
 
 
