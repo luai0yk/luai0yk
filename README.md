@@ -1,4 +1,4 @@
-# 💫 Hi there 👋, I'm Lu'ai:
+# Hi there 👋, I'm Lu'ai:
 🔭 I’m currently working with Flutter<br>
 👯 I’m looking to collaborate on Mobile open-source apps<br>
 🤝 I’m looking to help with Mobile Developemnt<br>
