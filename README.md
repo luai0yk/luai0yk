@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Lu'ai:
-🔭 I’m currently working with Flutter<br>
-👯 I’m looking to collaborate on Mobile open-source apps<br>
-🤝 I’m looking to help with Mobile Developemnt<br>
-🌱 I’m currently learning JS<br>
-💬 Ask me about anything related to Flutter
+I’m currently working with Flutter<br>
+I’m looking to collaborate on Mobile open-source apps<br>
+I’m looking to help with Mobile Developemnt<br>
+I’m currently learning JS<br>
+Ask me about anything related to Flutter
 
 
 ## 🌐 Socials:
